@@ -9,7 +9,7 @@ class App extends Component {
         <BurgerBuilder />
       </Layout>
     );
-  }
+  } 
 }
 
 export default App;
