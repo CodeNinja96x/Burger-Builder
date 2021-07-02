@@ -1,0 +1,25 @@
+@import '../styles/theme_variables';
+
+.activityOverlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom:0;
+    left:0;
+
+     .spinner {
+        position: absolute;
+        top: 20%;
+        left: 50%;
+     }
+    .activityOverlayInner {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom:0;
+        left:0;
+        background-color: $brand-white;
+        opacity: .5;
+    }
+
+}
