@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
+//to beremoved
+https://github.com/wvengen/d3-wordcloud/blob/master/d3.wordcloud.js
+https://github.com/jasondavies/d3-cloud
+https://medium.com/software-ascending/understanding-repositories-5953d95f3248
+https://c3js.org/
+https://material-ui.com/
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
